@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\bin\Debug\net10.0\ProjectHotel.exe
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\bin\Debug\net10.0\ProjectHotel.deps.json
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\bin\Debug\net10.0\ProjectHotel.runtimeconfig.json
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\bin\Debug\net10.0\ProjectHotel.dll
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\bin\Debug\net10.0\ProjectHotel.pdb
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ProjectHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ProjectHotel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ProjectHotel.AssemblyInfo.cs
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ProjectHotel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ProjectHotel.dll
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\refint\ProjectHotel.dll
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ProjectHotel.pdb
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ProjectHotel.genruntimeconfig.cache
+C:\Users\User\source\repos\ProjectHotel\ProjectHotel\obj\Debug\net10.0\ref\ProjectHotel.dll
